@@ -7,7 +7,7 @@ The command is as follows.
 
 ```bash
 conda create -n aaai python=3.8
-conda activate aaai
+conda activate miccai
 pip install -r requirements.txt  # install
 ```
 
