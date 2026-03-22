@@ -6,7 +6,7 @@ Python>=3.8.0 environment, including PyTorch>=1.8.
 The command is as follows.
 
 ```bash
-conda create -n aaai python=3.8
+conda create -n miccai python=3.8
 conda activate miccai
 pip install -r requirements.txt  # install
 ```
